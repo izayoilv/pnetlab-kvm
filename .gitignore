@@ -1,0 +1,13 @@
+# VM artifacts (images live outside the repo)
+*.qcow2
+
+# staging / extracted appliance
+staging/
+*.vmdk
+
+# course lab topologies
+labs/*.unl
+
+# editor/OS noise
+*.swp
+.DS_Store
